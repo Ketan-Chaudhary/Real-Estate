@@ -1,6 +1,7 @@
 import Header from "./Components/Header/Header";
 import Hero from "./Components/Hero/Hero";
 import Partners from "./Components/Partners/Partners";
+import Residencies from "./Components/Residencies-crousel/Residencies";
 function App() {
   return (
     <div className="App">
@@ -10,6 +11,7 @@ function App() {
         <Hero />
       </div>
       <Partners/>
+      <Residencies/>
     </div>
   );
 }

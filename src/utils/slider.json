@@ -1,38 +1,62 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Sunny Apartment",
+    "price": "1200",
+    "image": "./r1.png",
+    "details": "A cozy 2-bedroom apartment with plenty of sunlight, located in downtown."
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "Luxury Villa",
+    "price": "5000",
+    "image": "./r2.png",
+    "details": "A luxurious 5-bedroom villa with a private pool and garden, located in an exclusive neighborhood."
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Modern Loft",
+    "price": "2500",
+    "image": "./r3.png",
+    "details": "A spacious and modern loft with industrial design, located in a vibrant area with many amenities."
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Country House",
+    "price": "1800",
+    "image": "./r1.png",
+    "details": "A charming 3-bedroom house in the countryside, perfect for those seeking tranquility and nature."
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "Beachfront Condo",
+    "price": "3000",
+    "image": "./r2.png",
+    "details": "A beautiful 2-bedroom condo with direct beach access, offering stunning sea views."
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Penthouse Suite",
+    "price": "7000",
+    "image": "./r3.png",
+    "details": "An exclusive 4-bedroom penthouse with panoramic city views and luxury amenities."
+  },
+  {
+    "name": "Suburban Home",
+    "price": "2200",
+    "image": "./r1.png",
+    "details": "A comfortable 3-bedroom home located in a quiet suburban neighborhood, ideal for families."
+  },
+  {
+    "name": "Studio Apartment",
+    "price": "900",
+    "image": "./r2.png",
+    "details": "A compact and affordable studio apartment, perfect for single occupants or students."
+  },
+  {
+    "name": "Mountain Cabin",
+    "price": "1500",
+    "image": "./r3.png",
+    "details": "A rustic 2-bedroom cabin in the mountains, offering stunning views and a peaceful retreat."
+  },
+  {
+    "name": "Urban Flat",
+    "price": "2000",
+    "image": "./r1.png",
+    "details": "A modern 2-bedroom flat in the heart of the city, close to shops and public transport."
   }
 ]
