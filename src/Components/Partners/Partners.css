@@ -1,0 +1,8 @@
+.prt-container{
+    justify-content: space-around;
+    gap: 1rem;
+}
+
+.prt-container>img{
+    width: 9rem;
+}
