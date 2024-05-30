@@ -99,6 +99,22 @@ a {
   cursor: pointer;
   transform: scale(1.1);
 }
+/* White-Gradient-Header Hero */
+.App{
+  position: relative;
+  overflow-x: clip;
+}
+.App>:nth-child(1){
+  background: var(--black);
+}
+
+.white-gradient{
+  position: absolute;
+  width: 20rem;
+  height: 20rem;
+  background: rgba(255, 255, 255, 0.522);
+  filter: blur(100px);
+}
 
 /* media queries */
 @media (min-width: 1536px) {
