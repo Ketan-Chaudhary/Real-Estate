@@ -1,3 +1,4 @@
+import Contact from "./Components/Contact/Contact";
 import Header from "./Components/Header/Header";
 import Hero from "./Components/Hero/Hero";
 import Partners from "./Components/Partners/Partners";
@@ -14,6 +15,7 @@ function App() {
       <Partners/>
       <Residencies/>
       <Values/>
+      <Contact/>
     </div>
   );
 }
