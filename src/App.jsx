@@ -1,4 +1,5 @@
 import Contact from "./Components/Contact/Contact";
+import GetStarted from "./Components/GetStarted/GetStarted";
 import Header from "./Components/Header/Header";
 import Hero from "./Components/Hero/Hero";
 import Partners from "./Components/Partners/Partners";
@@ -16,6 +17,7 @@ function App() {
       <Residencies/>
       <Values/>
       <Contact/>
+      <GetStarted/>
     </div>
   );
 }
