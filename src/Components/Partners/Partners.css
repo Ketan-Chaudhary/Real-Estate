@@ -1,8 +1,16 @@
-.prt-container{
+.prt-container {
     justify-content: space-around;
     gap: 1rem;
 }
 
-.prt-container>img{
+.prt-container>img {
     width: 9rem;
+}
+
+@media (max-width:640px) {
+    .prt-container {
+        flex-direction: column;
+        gap: 1.5rem;
+        margin-top: 2rem;
+    }
 }

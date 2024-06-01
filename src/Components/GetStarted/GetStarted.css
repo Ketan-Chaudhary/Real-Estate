@@ -22,3 +22,9 @@
     box-shadow: var(--shadow);
     border-radius: 10px;
 }
+
+@media (max-Width:640px) {
+    .inner-container .primaryText{
+        font-size: 1.3rem;
+    }
+}

@@ -56,3 +56,22 @@
     text-align: center;
     margin: 0px 0.5rem;
 }
+
+@media (max-width:1024px) {
+    .v-container{
+        flex-direction: column;
+    }
+
+    @media (max-width:768px) {
+        .accordion-btn .primaryText{
+            font-size: 0.8rem;
+        }
+
+        .v-right {
+            align-items: center;
+        }
+        .v-wrapper{
+            margin-top: 2rem;
+        }
+    }
+}
