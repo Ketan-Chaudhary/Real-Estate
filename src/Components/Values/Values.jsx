@@ -12,7 +12,7 @@ import { MdOutlineArrowDropDown } from "react-icons/md";
 import data from "../../utils/accordion";
 const Values = () => {
   return (
-    <section className="v-wrapper">
+    <section className="v-wrapper" id="values">
       <div className="paddings innerWidth flexCenter v-container">
         {/* Left Side */}
         <div className="v-left">

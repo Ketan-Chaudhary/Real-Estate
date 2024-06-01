@@ -16,12 +16,12 @@ const Header = () => {
         <OutsideClickHandler 
         onOutsideClick={()=>{setMenuOpened(false)}}>
           <div className="flexCenter h-menu" style={getMenuStyles(menuOpened)}>
-            <a href="">Residencies</a>
-            <a href="">Our Values</a>
-            <a href="">Contact Us</a>
-            <a href="">Get Started</a>
+            <a href="#resdencies">Residencies</a>
+            <a href="#values">Our Values</a>
+            <a href="#contact">Contact Us</a>
+            <a href="#getStarted">Get Started</a>
             <button className="button">
-              <a href="">Contact</a>
+              <a href="mailto:example.com">Contact</a>
             </button>
           </div>
         </OutsideClickHandler>

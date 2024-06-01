@@ -12,6 +12,10 @@
     font-weight: 500;
 }
 
+.f-menu>span:hover{
+    cursor: pointer;
+}
+
 @media (max-Width:740px) {
     .f-container{
         /* justify-content: center; */
