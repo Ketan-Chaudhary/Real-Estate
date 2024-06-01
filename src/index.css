@@ -111,6 +111,8 @@ a {
 
 .white-gradient{
   position: absolute;
+  top: 4rem;
+  left: 1rem;
   width: 20rem;
   height: 20rem;
   background: rgba(255, 255, 255, 0.522);

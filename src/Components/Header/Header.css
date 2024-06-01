@@ -4,7 +4,8 @@
 
 .h-container{
     justify-content: space-between;
-    padding-top: 1rem;
+    /* padding-top: 1rem; */
+    padding-top: 0;
     padding-bottom: 1rem;
     color: var(--secondary);
 }
