@@ -1,4 +1,5 @@
 import Contact from "./Components/Contact/Contact";
+import Footer from "./Components/Footer/Footer";
 import GetStarted from "./Components/GetStarted/GetStarted";
 import Header from "./Components/Header/Header";
 import Hero from "./Components/Hero/Hero";
@@ -18,6 +19,7 @@ function App() {
       <Values/>
       <Contact/>
       <GetStarted/>
+      <Footer/>
     </div>
   );
 }
